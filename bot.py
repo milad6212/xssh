@@ -85,7 +85,7 @@ def Seller_Tools_keys():
         [InlineKeyboardButton("🔄تمدید کاربر", callback_data='update'), InlineKeyboardButton("⬆️افزایش ترافیک", callback_data='TrfPlus')],
         [InlineKeyboardButton("🛠ساخت اکانت", callback_data='Create_none'), InlineKeyboardButton("🗑حذف کاربر", callback_data='remove')],
         [InlineKeyboardButton("🔑تغییر پسورد اکانت", callback_data='ADPASS'), InlineKeyboardButton("🔎 جستجو کاربر ", callback_data='SQerch')],
-        [InlineKeyboardButton("📦 اکانت های من", callback_data='service'), InlineKeyboardButton("ℹ️ اطلاعات سرویس", callback_data='config')],
+        [InlineKeyboardButton("📦 اکانت های من", callback_data='service'), InlineKeyboardButton("ℹ️ ااضافه کردن اکانت", callback_data='config')],
         [InlineKeyboardButton("🆘 آموزش", callback_data='help'), InlineKeyboardButton("💰کیف پول", callback_data='UWM')],
         [InlineKeyboardButton("🟢 کاربران آنلاین", callback_data='SOQUS')]
     ]
